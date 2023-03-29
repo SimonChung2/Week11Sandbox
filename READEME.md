@@ -49,4 +49,7 @@ Use the `<html>` tag to start and HTML document.
 ```javascript
 console.log("hello world");
 document.write(<h1>hello world</h1>);
-
+```
+```markdown
+**Hi**
+```
