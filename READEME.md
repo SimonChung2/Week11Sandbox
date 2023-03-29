@@ -27,3 +27,11 @@ This text is *italics* and this text is **bold** and this text is both ***bold a
 3. If you have two lines in this list item
 
     Use four spaces to indent the next line
+
+## Links
+
+Here is a link to [clickabletext](https://facebook.com).
+
+Properly formatted URLS will be linked:
+
+https://codeadam.ca
