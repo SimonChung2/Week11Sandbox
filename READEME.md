@@ -34,12 +34,6 @@ Here is a link to [clickabletext](https://google.com).
 
 Properly formatted URLS will be linked:
 
-## Tables
-
-| First Heading | Second Heading |      |
-|---------------| -------------- | ---: |
-| Value 1       | Value 2        | 1.0  |
-
 https://codeadam.ca
 
 ## Images
@@ -59,3 +53,14 @@ document.write(<h1>hello world</h1>);
 ```markdown
 **Hi**
 ```
+
+## Tables
+
+| First Heading | Second Heading |      |
+|---------------| -------------- | ---: |
+| Value 1       | Value 2        | 1.0  |
+
+First Heading | Second HEading | |
+--- | --- | ---:
+Value 1 | Value 2 | 1.0
+Value 3 | Value 4 | 1.0
