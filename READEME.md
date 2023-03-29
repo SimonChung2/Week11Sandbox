@@ -34,6 +34,12 @@ Here is a link to [clickabletext](https://google.com).
 
 Properly formatted URLS will be linked:
 
+## Tables
+
+| First Heading | Second Heading |      |
+|---------------| -------------- | ---: |
+| Value 1       | Value 2        | 1.0  |
+
 https://codeadam.ca
 
 ## Images
