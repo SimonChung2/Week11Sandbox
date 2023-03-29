@@ -35,3 +35,11 @@ Here is a link to [clickabletext](https://google.com).
 Properly formatted URLS will be linked:
 
 https://codeadam.ca
+
+## Images
+
+Images can be displayed using a full URL:
+
+![Text_Image]([https://](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2015%2F04%2F23%2F22%2F00%2Ftree-736885__480.jpg&tbnid=9SPhZ2nyEGps3M&vet=12ahUKEwiw_o2ynYH-AhXtL1kFHdU2BQsQMygCegUIARC8AQ..i&imgrefurl=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fnature%2F&docid=Ba_eiczVaD9-zM&w=771&h=480&itg=1&q=image&ved=2ahUKEwiw_o2ynYH-AhXtL1kFHdU2BQsQMygCegUIARC8AQ)
+
+
