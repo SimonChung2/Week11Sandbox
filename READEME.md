@@ -30,7 +30,7 @@ This text is *italics* and this text is **bold** and this text is both ***bold a
 
 ## Links
 
-Here is a link to [clickabletext](https://facebook.com).
+Here is a link to [clickabletext](https://google.com).
 
 Properly formatted URLS will be linked:
 
